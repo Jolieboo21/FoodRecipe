@@ -1,0 +1,2 @@
+E:/CTU/PTUD Mobile/ct48401-project-Jolieboo/android/app/.cxx/Debug/2k4q4i3w/armeabi-v7a/CMakeFiles/edit_cache.dir
+E:/CTU/PTUD Mobile/ct48401-project-Jolieboo/android/app/.cxx/Debug/2k4q4i3w/armeabi-v7a/CMakeFiles/rebuild_cache.dir
